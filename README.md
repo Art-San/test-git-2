@@ -4,6 +4,7 @@
 4 git log / git log --oneline 
 5 git push [rep_link] [branch_name НАЗВАНИЕ ВЕТКИ] ----- отправка данных на гитхаб 
 5 git push origin master            ----- отправка данных на гитхаб
+5.1 git pull origin master  ----------- получаем даннные с гит хаба 
 
 
 6 git remote -v Узнаем ссылку на гит хабе
